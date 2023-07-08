@@ -1,0 +1,67 @@
+.nav{
+    background-color: rebeccapurple;
+    color: white;
+    margin-top: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+a:hover{
+    color: yellowgreen;
+}
+.head{
+    font-family: 'Pacifico', cursive;
+    font-size: 80px;
+    color: aqua;
+    text-align: center;
+    padding: 50px;
+}
+#green{
+    color: greenyellow;
+}
+.para{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: gray;
+    padding: 20px;
+}
+.brown{
+    color: brown;
+}
+.sh{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding: 20px;
+    color: gray;
+}
+#yellow{
+    color: yellow;
+}
+.red{
+    color: red;
+}
+#yellowgreen{
+    color: yellowgreen;
+}
+#blue{
+    color: blue;
+}
+.lightblue{
+    color: #ad5cf8;
+}
+#aqua{
+    color: aqua;
+}
+.yellowgreen{
+    color: yellowgreen;
+}
